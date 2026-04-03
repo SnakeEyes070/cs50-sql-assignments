@@ -65,7 +65,6 @@ All tables are connected using foreign keys to maintain data integrity.
 - Extension into a backtesting system  
 
 ---
-
 ## 🙌 Acknowledgment
 
 Thanks to **Carter Zenke** and the CS50 team for creating such a practical and insightful course.

@@ -1,76 +1,82 @@
-# Stock Portfolio Tracker (CS50 SQL Final Project)
+# Sankalp Pandey – Assignment Repository
 
-This project is my final submission for **CS50’s Introduction to Databases with SQL (Harvard University)**.
+This repository contains my academic and self-learning assignments across multiple domains including Data Structures, SQL, Programming, and System Fundamentals.
 
-It is a SQL-based system designed to manage and analyze stock investments, track transactions, and calculate portfolio value.
-
----
-
-## Features
-
-- Store and manage stock companies and sectors  
-- Track buy/sell transactions  
-- Maintain daily stock price data  
-- Calculate total portfolio value  
-- Optimized queries using indexes and views  
+I am currently a B.Tech student in Electrical and Electronics Engineering at UIT RGPV Bhopal, with strong interest in Software Development, Data Science, and Quantitative Finance.
 
 ---
 
-##  Database Design
+## Skills Covered
 
-The database is structured using relational design principles with the following core tables:
-
-- `users` – stores user information  
-- `portfolios` – tracks user holdings  
-- `transactions` – records buy/sell activity  
-- `companies` – stock details  
-- `sectors` – industry classification  
-- `daily_prices` – historical stock data  
-
-All tables are connected using foreign keys to maintain data integrity.
+- Programming: C, C++, Python, Java  
+- Database: SQL (SQLite, MySQL)  
+- Core CS: Data Structures & Algorithms  
+- Tools: Git, GitHub  
+- Concepts: Problem Solving, Optimization, Debugging  
 
 ---
 
-## Technologies Used
+## Assignment Categories
 
-- SQL (SQLite)  
-- Database Design  
-- Query Optimization  
-
----
-
-## 📈Example Queries
-
-- Retrieve all transactions of a user  
-- Identify most traded stocks  
-- Calculate total portfolio value using latest prices  
-- Insert, update, and delete records  
+###  Data Structures & Algorithms (DSA)
+- Implementations of arrays, linked lists, stacks, queues  
+- Sorting and searching algorithms  
+- Recursion and basic problem-solving patterns  
 
 ---
 
-## Key Learning Outcomes
-
-- Designing real-world relational databases  
-- Writing complex SQL queries  
-- Using joins, indexes, and views  
-- Optimizing query performance  
-
----
-
-## Future Improvements
-
-- Integration with real-time stock APIs  
-- Portfolio performance tracking over time  
-- Dashboard for visualization  
-- Extension into a backtesting system  
-
----
-## 🙌 Acknowledgment
-
-Thanks to **Carter Zenke** and the CS50 team for creating such a practical and insightful course.
+### SQL & Database Assignments
+- Query writing (SELECT, JOIN, GROUP BY, etc.)  
+- Database design basics  
+- Indexing and optimization concepts  
+- Real-world dataset handling (CS50 SQL tasks)
 
 ---
 
-## 📬 Contact
+### Programming Assignments
+- Logic building exercises in C, C++, Python, and Java  
+- Input/output handling and control structures  
+- Basic algorithm implementation  
 
-If you'd like to connect or discuss, feel free to reach out!
+---
+
+### System & Technical Concepts
+- Introductory work in hardware/software concepts  
+- Exposure to FPGA, ASIC, and system-level understanding  
+- Basic debugging and performance thinking  
+
+---
+
+## What I’m Learning
+
+- Advanced Data Structures & Algorithms  
+- Data Science & Machine Learning  
+- Quantitative Finance Concepts  
+- Backend Development  
+
+---
+
+## Goal
+
+To build strong problem-solving and system design skills and secure an internship in:
+- Data Science  
+- Software Development  
+- Quantitative Development  
+
+---
+
+## Note
+
+This repository focuses on **assignments and practice work** to strengthen fundamentals.  
+Projects are maintained separately.
+
+---
+
+## Connect with Me
+
+- GitHub: https://github.com/your-username  
+- LinkedIn: (Add your link here)
+
+---
+
+If you find this repository useful, feel free to explore and connect!

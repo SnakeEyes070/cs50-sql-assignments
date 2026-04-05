@@ -1,82 +1,79 @@
-# Sankalp Pandey – Assignment Repository
+# CS50 SQL – Assignment Solutions
 
-This repository contains my academic and self-learning assignments across multiple domains including Data Structures, SQL, Programming, and System Fundamentals.
+This repository contains my solutions to the assignments from Harvard's **CS50’s Introduction to Databases with SQL** course.
 
-I am currently a B.Tech student in Electrical and Electronics Engineering at UIT RGPV Bhopal, with strong interest in Software Development, Data Science, and Quantitative Finance.
-
----
-
-## Skills Covered
-
-- Programming: C, C++, Python, Java  
-- Database: SQL (SQLite, MySQL)  
-- Core CS: Data Structures & Algorithms  
-- Tools: Git, GitHub  
-- Concepts: Problem Solving, Optimization, Debugging  
+The work focuses on writing efficient SQL queries, understanding relational databases, and solving real-world data problems.
 
 ---
 
-## Assignment Categories
+## Assignment List
 
-###  Data Structures & Algorithms (DSA)
-- Implementations of arrays, linked lists, stacks, queues  
-- Sorting and searching algorithms  
-- Recursion and basic problem-solving patterns  
+The repository includes solutions for the following problem sets:
 
----
-
-### SQL & Database Assignments
-- Query writing (SELECT, JOIN, GROUP BY, etc.)  
-- Database design basics  
-- Indexing and optimization concepts  
-- Real-world dataset handling (CS50 SQL tasks)
-
----
-
-### Programming Assignments
-- Logic building exercises in C, C++, Python, and Java  
-- Input/output handling and control structures  
-- Basic algorithm implementation  
+* Cyberchase
+* Moneyball
+* Don't Panic
+* Meteorites
+* Census Taker
+* ATL
+* DESE
+* Donuts
+* Players
+* Views
+* Packages
+* Connect
 
 ---
 
-### System & Technical Concepts
-- Introductory work in hardware/software concepts  
-- Exposure to FPGA, ASIC, and system-level understanding  
-- Basic debugging and performance thinking  
+## Concepts Covered
+
+* SELECT queries and filtering
+* JOIN operations (INNER, LEFT, etc.)
+* Aggregations (COUNT, AVG, SUM)
+* GROUP BY and HAVING
+* Subqueries and nested queries
+* Indexing and query optimization
+* Database schema understanding
 
 ---
 
-## What I’m Learning
+## 🛠️ Tools Used
 
-- Advanced Data Structures & Algorithms  
-- Data Science & Machine Learning  
-- Quantitative Finance Concepts  
-- Backend Development  
+* SQLite
+* CS50 SQL Library
+* Git & GitHub
 
 ---
 
-## Goal
+## Learning Outcome
 
-To build strong problem-solving and system design skills and secure an internship in:
-- Data Science  
-- Software Development  
-- Quantitative Development  
+Through these assignments, I developed:
+
+* Strong SQL query writing skills
+* Ability to analyze real-world datasets
+* Understanding of database design and optimization
+* Problem-solving using structured data
 
 ---
 
 ## Note
 
-This repository focuses on **assignments and practice work** to strengthen fundamentals.  
-Projects are maintained separately.
+These solutions are part of my learning journey in database systems and are intended for educational purposes.
+
+---
+
+## Course Reference
+
+CS50’s Introduction to Databases with SQL
+Offered by Harvard University
 
 ---
 
 ## Connect with Me
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: (Add your link here)
+* GitHub: https://github.com/your-username
+* LinkedIn: (Add your LinkedIn here)
 
 ---
 
-If you find this repository useful, feel free to explore and connect!
+Feel free to explore the solutions and reach out for discussion!
